@@ -1,4 +1,4 @@
-# 🚀 Networkers Home — 20 Days • 20 Technologies Internship
+# Networkers Home — 20 Days • 20 Technologies Internship
 
 Welcome to the **20 Days • 20 Technologies** internship challenge!  
 This program is designed to give participants a **hands-on, real-world learning track** across virtualization, Linux, firewalls, VPNs, routing, monitoring, automation, containers, clustering, and integration.  
